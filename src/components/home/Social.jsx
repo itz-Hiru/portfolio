@@ -3,7 +3,7 @@ import React from 'react';
 const Social = () => {
     return (
         <div className="home__social">
-            <a href="https://github.com/Hirumitha-Kuladewa" className="home__social-icon" target="_blank">
+            <a href="https://github.com/itz-Hiru" className="home__social-icon" target="_blank">
                 <i className="bx bxl-github"></i>
             </a>
             <a href="https://www.linkedin.com/in/hirumitha/" className="home__social-icon" target="_blank">
